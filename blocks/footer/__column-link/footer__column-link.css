@@ -1,0 +1,16 @@
+.footer__column-link {
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    text-decoration: none;
+    display: flex;
+    color: white;
+    opacity: 1;
+    transition-property: opacity;
+    transition-duration: .5s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+  }
+.footer__column-link:hover {
+  opacity: .6;
+}  

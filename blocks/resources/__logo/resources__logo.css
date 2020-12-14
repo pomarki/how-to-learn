@@ -1,0 +1,13 @@
+.resources__logo {
+    width: 270px;
+    height: 38px;
+    padding: 0;
+    opacity: 1;
+    transition-property: opacity;
+    transition-duration: .5s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+}
+.resources__logo:hover {
+    opacity: .6;
+}
