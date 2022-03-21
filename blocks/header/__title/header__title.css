@@ -1,12 +1,12 @@
 .header__title {
-    align-self: center;
-    width: 730px;
-    font-size: 102px;
-    font-weight: bold;
-    position: absolute;
-    left: 64px;
-    z-index: 1;
-    text-align: left;
-    line-height: 96px;
-    margin: 0;
-  }
+  align-self: center;
+  width: 730px;
+  font-size: 102px;
+  font-weight: bold;
+  position: absolute;
+  left: 64px;
+  z-index: 1;
+  text-align: left;
+  line-height: 96px;
+  margin: 0;
+}
